@@ -176,6 +176,71 @@ Guías de posicionamiento local para las principales ciudades españolas:
 
 ---
 
+## 🎯 SEO local por ciudad + sector (guías específicas)
+
+Guías de posicionamiento hiper-local: cada artículo combina ciudad concreta + sector específico para máxima conversión:
+
+### Madrid — por sector
+- [Fontanero en Madrid: cómo aparecer en Google](https://techmentoria.com/articles/fontanero-madrid-como-aparecer-google/)
+- [Electricista en Madrid: cómo conseguir más clientes](https://techmentoria.com/articles/electricista-madrid-como-aparecer-google/)
+- [Cerrajero en Madrid: captar urgencias sin publicidad](https://techmentoria.com/articles/cerrajero-madrid-como-aparecer-google/)
+- [Taller mecánico en Madrid: llenar la agenda](https://techmentoria.com/articles/taller-mecanico-madrid-como-aparecer-google/)
+- [Dentista en Madrid: captar pacientes en Google](https://techmentoria.com/articles/dentista-madrid-como-captar-pacientes-google/)
+- [Abogado en Madrid: conseguir clientes en Google](https://techmentoria.com/articles/abogado-madrid-como-conseguir-clientes-google/)
+- [Fisioterapeuta en Madrid: captar pacientes](https://techmentoria.com/articles/fisioterapeuta-madrid-como-captar-pacientes-google/)
+- [Psicólogo en Madrid: captar pacientes online](https://techmentoria.com/articles/psicologia-madrid-como-captar-pacientes-online/)
+- [Nutricionista en Madrid: captar clientes](https://techmentoria.com/articles/nutricionista-madrid-como-captar-clientes-google/)
+- [Peluquería en Madrid: llenar la agenda](https://techmentoria.com/articles/peluqueria-madrid-como-llenar-agenda-google/)
+- [Academia de idiomas en Madrid: captar alumnos](https://techmentoria.com/articles/academia-idiomas-madrid-como-captar-alumnos-google/)
+- [Inmobiliaria en Madrid: captar propietarios y compradores](https://techmentoria.com/articles/inmobiliaria-madrid-como-captar-propietarios-google/)
+- [Clínica veterinaria en Madrid: captar clientes](https://techmentoria.com/articles/clinica-veterinaria-madrid-como-captar-clientes-google/)
+- [Personal trainer en Madrid: conseguir clientes](https://techmentoria.com/articles/personal-trainer-barcelona-como-captar-clientes-google/)
+
+### Barcelona — por sector
+- [Fontanero en Barcelona: cómo aparecer en Google](https://techmentoria.com/articles/fontanero-barcelona-como-aparecer-google/)
+- [Electricista en Barcelona: cómo conseguir más clientes](https://techmentoria.com/articles/electricista-barcelona-como-aparecer-google/)
+- [Cerrajero en Barcelona: captar urgencias](https://techmentoria.com/articles/cerrajero-barcelona-como-aparecer-google/)
+- [Taller mecánico en Barcelona: llenar la agenda](https://techmentoria.com/articles/taller-mecanico-barcelona-como-aparecer-google/)
+- [Dentista en Barcelona: captar pacientes](https://techmentoria.com/articles/dentista-barcelona-como-captar-pacientes-google/)
+- [Abogado en Barcelona: conseguir clientes](https://techmentoria.com/articles/abogado-barcelona-como-conseguir-clientes-google/)
+- [Fisioterapeuta en Barcelona: captar pacientes](https://techmentoria.com/articles/fisioterapeuta-barcelona-como-captar-pacientes-google/)
+- [Psicólogo en Barcelona: captar pacientes online](https://techmentoria.com/articles/psicologia-barcelona-como-captar-pacientes-online/)
+- [Nutricionista en Barcelona: captar clientes](https://techmentoria.com/articles/nutricionista-barcelona-como-captar-clientes-google/)
+- [Peluquería en Barcelona: llenar la agenda](https://techmentoria.com/articles/peluqueria-barcelona-como-llenar-agenda-google/)
+- [Clínica estética en Barcelona: captar clientes](https://techmentoria.com/articles/clinica-estetica-barcelona-como-captar-clientes-google/)
+- [Inmobiliaria en Barcelona: captar compradores](https://techmentoria.com/articles/inmobiliaria-barcelona-como-captar-compradores-google/)
+- [Clínica veterinaria en Barcelona: captar clientes](https://techmentoria.com/articles/clinica-veterinaria-barcelona-como-captar-clientes-google/)
+- [Gestoría en Barcelona: conseguir clientes](https://techmentoria.com/articles/gestor-administrativo-barcelona-como-conseguir-clientes-google/)
+- [Personal trainer en Barcelona: captar clientes](https://techmentoria.com/articles/personal-trainer-barcelona-como-captar-clientes-google/)
+
+### Valencia — por sector
+- [Fontanero en Valencia: cómo aparecer en Google](https://techmentoria.com/articles/fontanero-valencia-como-aparecer-google/)
+- [Electricista en Valencia: cómo conseguir más clientes](https://techmentoria.com/articles/electricista-valencia-como-aparecer-google/)
+- [Taller mecánico en Valencia: llenar la agenda](https://techmentoria.com/articles/taller-mecanico-valencia-como-aparecer-google/)
+- [Restaurante en Valencia: cómo llenar mesas](https://techmentoria.com/articles/restaurante-valencia-como-llenar-mesas-google/)
+- [Clínica dental en Valencia: captar pacientes](https://techmentoria.com/articles/clinica-dental-valencia-como-captar-pacientes-google/)
+- [Peluquería en Valencia: llenar la agenda](https://techmentoria.com/articles/peluqueria-valencia-como-llenar-agenda-google/)
+
+### Sevilla — por sector
+- [Fontanero en Sevilla: cómo aparecer en Google](https://techmentoria.com/articles/fontanero-sevilla-como-aparecer-google/)
+- [Electricista en Sevilla: conseguir más clientes](https://techmentoria.com/articles/electricista-sevilla-como-aparecer-google/)
+- [Cerrajero en Sevilla: captar urgencias](https://techmentoria.com/articles/cerrajero-sevilla-como-aparecer-google/)
+- [Taller mecánico en Sevilla: llenar la agenda](https://techmentoria.com/articles/taller-mecanico-sevilla-como-aparecer-google/)
+- [Dentista en Sevilla: captar pacientes](https://techmentoria.com/articles/dentista-sevilla-como-captar-pacientes-google/)
+- [Abogado en Sevilla: conseguir clientes](https://techmentoria.com/articles/abogado-sevilla-como-conseguir-clientes-google/)
+- [Peluquería en Sevilla: llenar la agenda](https://techmentoria.com/articles/peluqueria-sevilla-como-llenar-agenda-google/)
+
+### Madrid + Barcelona (otros sectores)
+- [Empresa de reformas en Madrid: conseguir clientes](https://techmentoria.com/articles/empresa-reformas-madrid-como-conseguir-clientes-google/)
+
+### Bilbao — por sector
+- [Fontanero en Bilbao: aparecer en Google](https://techmentoria.com/articles/fontanero-bilbao-como-aparecer-google/)
+
+### Zaragoza — por sector
+- [Fontanero en Zaragoza: aparecer en Google](https://techmentoria.com/articles/fontanero-zaragoza-como-aparecer-google/)
+
+---
+
 ## 📋 Schema.org para negocios locales
 
 El Schema markup es el código que le dice a Google qué tipo de negocio es, dónde está y cuál es su teléfono.
