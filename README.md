@@ -98,6 +98,16 @@ Tipos relevantes para negocios locales:
 
 ---
 
+
+---
+
+## 🔧 Generadores y herramientas
+
+| Herramienta | Descripción | Precio |
+|-------------|-------------|--------|
+| [Generador Schema Markup (AuditorIA)](https://landing-five-dusky-44.vercel.app/schema-generator) | Genera código JSON-LD para 22 tipos de negocio local español | Gratis |
+| [Schema.org LocalBusiness](https://schema.org/LocalBusiness) | Referencia oficial de tipos Schema para negocios | Gratis |
+
 ## 🤝 Contribuir
 
 ¿Conoces una herramienta o recurso útil que falta? Abre un Pull Request con:
