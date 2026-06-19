@@ -76,6 +76,14 @@ Guías de auditoría SEO especializadas por sector:
 | [Web para academias y clases](https://techmentoria.com/articles/2026-06-20-web-para-academia-clases-particulares-espana-2026/) | Alumnos de refuerzo y oposiciones |
 | [Web para empresas de jardinería](https://techmentoria.com/articles/2026-06-20-web-para-empresa-jardineria-paisajismo-espana-2026/) | Contratos de mantenimiento |
 | [Web para empresas de limpieza](https://techmentoria.com/articles/2026-06-19-web-para-empresa-limpieza-espana-2026/) | Contratos de hogar y oficinas |
+| [Web para empresa de reformas](https://techmentoria.com/articles/2026-06-19-web-para-empresa-reformas-construccion-espana-2026/) | Portfolio antes/después y formulario de presupuesto |
+| [Web para pintores](https://techmentoria.com/articles/2026-06-19-web-para-pintores-empresa-pintura-espana-2026/) | Portfolio y SEO local para pintores |
+| [Web para guarderías y escuelas infantiles](https://techmentoria.com/articles/2026-06-19-web-para-guarderia-escuela-infantil-espana-2026/) | Captación de familias online |
+| [Web para quiropráctico y osteópata](https://techmentoria.com/articles/2026-06-19-web-para-clinica-quiropractica-osteopatia-espana-2026/) | SEO por síntoma y especialidad |
+| [Web para herbolario y productos naturales](https://techmentoria.com/articles/2026-06-19-web-para-herbolario-tienda-productos-naturales-espana-2026/) | Tienda local + ventas online |
+| [Web para empresa de catering y eventos](https://techmentoria.com/articles/2026-06-19-web-para-empresa-catering-eventos-espana-2026/) | Bodas y eventos de empresa |
+| [Web para notaría](https://techmentoria.com/articles/2026-06-19-web-para-notaria-espana-2026/) | Captación de clientes notariales |
+| [¿Cuánto cuesta una web para negocio local?](https://techmentoria.com/articles/2026-06-19-cuanto-cuesta-una-web-para-negocio-local-espana-2026/) | Precios reales 2026 y ROI por sector |
 | [Diferencia landing page vs web corporativa](https://techmentoria.com/articles/2026-06-20-diferencia-landing-page-web-corporativa-cuando-necesitas-cada-una/) | Cuál usar y cuándo |
 | [Cómo crear una landing page efectiva](https://techmentoria.com/articles/2026-06-20-como-crear-landing-page-efectiva-negocio-local-espana/) | Los 8 elementos que convierten |
 | [Demos de webs para negocios locales (España)](https://mentoria-dotcom.github.io/webs-negocios-locales-espana/) | 49 demos de webs reales por sector |
@@ -95,7 +103,7 @@ Guías de posicionamiento local para las principales ciudades españolas:
 - 🌴 [Málaga](https://techmentoria.com/articles/2026-06-18-seo-local-malaga-negocios-como-aparecer-google/)
 - 🏛️ [Zaragoza](https://techmentoria.com/articles/2026-06-19-seo-local-zaragoza-negocios-como-aparecer-google/) *(AuditorIA: [auditar en Zaragoza](https://landing-five-dusky-44.vercel.app/zaragoza))*
 
-### Ciudades medianas
+### Ciudades medianas (100k-250k hab.)
 - [Valladolid](https://techmentoria.com/articles/2026-06-19-seo-local-valladolid-negocios-como-aparecer-google/)
 - [Alicante](https://techmentoria.com/articles/2026-06-19-seo-local-alicante-negocios-como-aparecer-google/)
 - [Murcia](https://techmentoria.com/articles/2026-06-19-seo-local-murcia-negocios-como-aparecer-google/)
@@ -108,7 +116,7 @@ Guías de posicionamiento local para las principales ciudades españolas:
 - [Santander](https://techmentoria.com/articles/2026-06-19-seo-local-santander-negocios-como-aparecer-google/)
 - [Granada](https://techmentoria.com/articles/2026-06-20-seo-local-granada-negocios-como-aparecer-google/)
 - [Vitoria-Gasteiz](https://techmentoria.com/articles/2026-06-19-seo-local-vitoria-gasteiz-negocios-google/)
-- [Las Palmas](https://techmentoria.com/articles/2026-06-19-seo-local-las-palmas-negocios-como-aparecer-google/)
+- [Las Palmas de Gran Canaria](https://techmentoria.com/articles/2026-06-19-seo-local-las-palmas-negocios-como-aparecer-google/)
 - [A Coruña](https://techmentoria.com/articles/2026-06-20-seo-local-a-coruna-negocios-como-aparecer-google/)
 - [Santiago de Compostela](https://techmentoria.com/articles/2026-06-20-seo-local-santiago-compostela-negocios-google/)
 - [Vigo](https://techmentoria.com/articles/2026-06-20-seo-local-vigo-negocios-como-aparecer-google/)
@@ -125,6 +133,26 @@ Guías de posicionamiento local para las principales ciudades españolas:
 - [Marbella](https://techmentoria.com/articles/2026-06-20-seo-local-marbella-negocios-como-aparecer-google/)
 - [Jerez de la Frontera](https://techmentoria.com/articles/2026-06-20-seo-local-jerez-de-la-frontera-negocios-google/)
 - [León](https://techmentoria.com/articles/2026-06-20-seo-local-leon-negocios-como-aparecer-google/)
+- [Cartagena](https://techmentoria.com/articles/2026-06-19-seo-local-cartagena-murcia-negocios-google/) *(AuditorIA: [auditar en Cartagena](https://landing-five-dusky-44.vercel.app/cartagena))*
+- [Terrassa](https://techmentoria.com/articles/2026-06-19-seo-local-terrassa-sabadell-negocios-google/)
+- [Sabadell](https://techmentoria.com/articles/2026-06-19-seo-local-terrassa-sabadell-negocios-google/)
+- [L'Hospitalet de Llobregat](https://techmentoria.com/articles/2026-06-19-seo-local-hospitalet-llobregat-negocios-google/) *(AuditorIA: [auditar en L'Hospitalet](https://landing-five-dusky-44.vercel.app/l-hospitalet))*
+- [Badalona](https://techmentoria.com/articles/2026-06-19-seo-local-badalona-negocios-como-aparecer-google/) *(AuditorIA: [auditar en Badalona](https://landing-five-dusky-44.vercel.app/badalona))*
+- [Alcalá de Henares](https://techmentoria.com/articles/2026-06-19-seo-local-alcala-de-henares-negocios-google/) *(AuditorIA: [auditar en Alcalá](https://landing-five-dusky-44.vercel.app/alcala-de-henares))*
+
+### Ciudades medianas (50k-100k hab.)
+- [Palma de Mallorca](https://techmentoria.com/articles/2026-06-18-seo-local-palma-mallorca-negocios-como-aparecer-google/)
+- [Torrevieja](https://techmentoria.com/articles/2026-06-19-seo-local-torrevieja-negocios-como-aparecer-google/) — bilingüe español/inglés *(AuditorIA: [auditar en Torrevieja](https://landing-five-dusky-44.vercel.app/torrevieja))*
+- [Benidorm](https://techmentoria.com/articles/2026-06-19-seo-local-benidorm-negocios-como-aparecer-google/) — ciudad turística, bilingüe *(AuditorIA: [auditar en Benidorm](https://landing-five-dusky-44.vercel.app/benidorm))*
+- [Reus](https://techmentoria.com/articles/2026-06-19-seo-local-reus-negocios-como-aparecer-google/) *(AuditorIA: [auditar en Reus](https://landing-five-dusky-44.vercel.app/reus))*
+- [Manresa](https://techmentoria.com/articles/2026-06-19-seo-local-manresa-negocios-como-aparecer-google/)
+- [Getafe](https://techmentoria.com/articles/2026-06-19-seo-local-getafe-fuenlabrada-mostoles-negocios-google/) *(AuditorIA: [auditar en Getafe](https://landing-five-dusky-44.vercel.app/getafe))*
+- [Fuenlabrada](https://techmentoria.com/articles/2026-06-19-seo-local-getafe-fuenlabrada-mostoles-negocios-google/)
+- [Móstoles](https://techmentoria.com/articles/2026-06-19-seo-local-getafe-fuenlabrada-mostoles-negocios-google/)
+- [Torrent (Valencia)](https://techmentoria.com/articles/2026-06-19-seo-local-torrent-valencia-negocios-google/)
+- [Lorca](https://techmentoria.com/articles/2026-06-19-seo-local-lorca-murcia-negocios-como-aparecer-google/)
+- [Talavera de la Reina](https://techmentoria.com/articles/2026-06-19-seo-local-talavera-de-la-reina-negocios-google/)
+- [Elda y Petrer](https://techmentoria.com/articles/2026-06-19-seo-local-elda-petrer-calzado-negocios-google/)
 
 ---
 
@@ -142,6 +170,9 @@ Guías de posicionamiento local para las principales ciudades españolas:
 | [Cómo conseguir pacientes veterinario](https://techmentoria.com/articles/2026-06-19-como-conseguir-clientes-veterinario-sin-publicidad/) | GBP + urgencias + fidelización |
 | [Alternativas gratuitas a Google Ads](https://techmentoria.com/articles/2026-06-20-alternativas-google-ads-negocios-locales-gratuitas/) | Los 7 canales más efectivos |
 | [Cómo aumentar ventas tienda local con Google](https://techmentoria.com/articles/2026-06-20-como-aumentar-ventas-tienda-local-google-gratis/) | 5 acciones gratuitas |
+| [Cómo conseguir clientes electricista sin publicidad](https://techmentoria.com/articles/2026-06-19-como-conseguir-clientes-electricista-sin-publicidad/) | Google Maps + administradores de fincas + WhatsApp |
+| [Cómo conseguir clientes empresa de limpieza](https://techmentoria.com/articles/2026-06-19-como-conseguir-clientes-empresa-limpieza-sin-publicidad/) | Comunidades + oficinas + Google Maps |
+| [Cómo conseguir clientes restaurante sin publicidad](https://techmentoria.com/articles/2026-06-19-como-conseguir-clientes-restaurante-sin-publicidad/) | Google Maps + Instagram + sin TheFork |
 
 ---
 
