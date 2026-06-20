@@ -217,9 +217,14 @@ Guías de posicionamiento hiper-local: cada artículo combina ciudad concreta + 
 - [Fontanero en Valencia: cómo aparecer en Google](https://techmentoria.com/articles/fontanero-valencia-como-aparecer-google/)
 - [Electricista en Valencia: cómo conseguir más clientes](https://techmentoria.com/articles/electricista-valencia-como-aparecer-google/)
 - [Taller mecánico en Valencia: llenar la agenda](https://techmentoria.com/articles/taller-mecanico-valencia-como-aparecer-google/)
+- [Cerrajero en Valencia: captar urgencias](https://techmentoria.com/articles/cerrajero-valencia-como-aparecer-google/)
+- [Abogado en Valencia: conseguir clientes en Google](https://techmentoria.com/articles/abogado-valencia-como-conseguir-clientes-google/)
+- [Nutricionista en Valencia: captar pacientes](https://techmentoria.com/articles/nutricionista-valencia-como-captar-clientes-google/)
+- [Psicólogo en Valencia: captar pacientes](https://techmentoria.com/articles/psicologia-valencia-como-captar-pacientes-google/)
 - [Restaurante en Valencia: cómo llenar mesas](https://techmentoria.com/articles/restaurante-valencia-como-llenar-mesas-google/)
 - [Clínica dental en Valencia: captar pacientes](https://techmentoria.com/articles/clinica-dental-valencia-como-captar-pacientes-google/)
 - [Peluquería en Valencia: llenar la agenda](https://techmentoria.com/articles/peluqueria-valencia-como-llenar-agenda-google/)
+- [Inmobiliaria en Valencia: captar compradores internacionales](https://techmentoria.com/articles/inmobiliaria-valencia-como-captar-compradores-google/)
 
 ### Sevilla — por sector
 - [Fontanero en Sevilla: cómo aparecer en Google](https://techmentoria.com/articles/fontanero-sevilla-como-aparecer-google/)
@@ -229,15 +234,58 @@ Guías de posicionamiento hiper-local: cada artículo combina ciudad concreta + 
 - [Dentista en Sevilla: captar pacientes](https://techmentoria.com/articles/dentista-sevilla-como-captar-pacientes-google/)
 - [Abogado en Sevilla: conseguir clientes](https://techmentoria.com/articles/abogado-sevilla-como-conseguir-clientes-google/)
 - [Peluquería en Sevilla: llenar la agenda](https://techmentoria.com/articles/peluqueria-sevilla-como-llenar-agenda-google/)
+- [Nutricionista en Sevilla: captar pacientes](https://techmentoria.com/articles/nutricionista-sevilla-como-captar-clientes-google/)
+- [Psicólogo en Sevilla: captar pacientes](https://techmentoria.com/articles/psicologia-sevilla-como-captar-pacientes-google/)
+- [Fisioterapeuta en Sevilla: captar pacientes](https://techmentoria.com/articles/fisioterapeuta-sevilla-como-captar-pacientes-google/)
+- [Personal trainer en Sevilla: conseguir clientes](https://techmentoria.com/articles/personal-trainer-sevilla-como-captar-clientes-google/)
+- [Restaurante en Sevilla: llenar mesas y captar turistas](https://techmentoria.com/articles/restaurante-sevilla-como-llenar-mesas-google/)
+- [Inmobiliaria en Sevilla: captar propietarios y compradores](https://techmentoria.com/articles/inmobiliaria-sevilla-como-captar-propietarios-google/)
 
 ### Madrid + Barcelona (otros sectores)
 - [Empresa de reformas en Madrid: conseguir clientes](https://techmentoria.com/articles/empresa-reformas-madrid-como-conseguir-clientes-google/)
+- [Inmobiliaria en Madrid: captar propietarios por barrio](https://techmentoria.com/articles/inmobiliaria-madrid-como-captar-clientes-google/)
+- [Psicólogo en Madrid: hiperlocalización por barrio](https://techmentoria.com/articles/psicologia-madrid-como-captar-pacientes-google/)
+- [Dentista en Madrid: implantes y Invisalign por barrio](https://techmentoria.com/articles/dentista-madrid-como-captar-pacientes-google/)
+- [Dentista en Barcelona: pacientes internacionales](https://techmentoria.com/articles/dentista-barcelona-como-captar-pacientes-google/)
 
 ### Bilbao — por sector
 - [Fontanero en Bilbao: aparecer en Google](https://techmentoria.com/articles/fontanero-bilbao-como-aparecer-google/)
+- [Electricista en Bilbao: cómo conseguir clientes](https://techmentoria.com/articles/electricista-bilbao-como-aparecer-google/)
+- [Cerrajero en Bilbao: captar urgencias](https://techmentoria.com/articles/cerrajero-bilbao-como-aparecer-google/)
+- [Taller mecánico en Bilbao: llenar la agenda](https://techmentoria.com/articles/taller-mecanico-bilbao-como-aparecer-google/)
+- [Dentista en Bilbao: captar pacientes](https://techmentoria.com/articles/dentista-bilbao-como-captar-pacientes-google/)
+- [Abogado en Bilbao: conseguir clientes](https://techmentoria.com/articles/abogado-bilbao-como-conseguir-clientes-google/)
+- [Peluquería en Bilbao: llenar la agenda](https://techmentoria.com/articles/peluqueria-bilbao-como-llenar-agenda-google/)
+- [Nutricionista en Bilbao: captar pacientes](https://techmentoria.com/articles/nutricionista-bilbao-como-captar-clientes-google/)
+- [Psicólogo en Bilbao: captar pacientes](https://techmentoria.com/articles/psicologia-bilbao-como-captar-pacientes-google/)
+- [Fisioterapeuta en Bilbao: captar pacientes](https://techmentoria.com/articles/fisioterapeuta-bilbao-como-captar-pacientes-google/)
+- [Personal trainer en Bilbao: conseguir clientes](https://techmentoria.com/articles/personal-trainer-bilbao-como-captar-clientes-google/)
+- [Restaurante en Bilbao: llenar mesas](https://techmentoria.com/articles/restaurante-bilbao-como-llenar-mesas-google/)
+- [Inmobiliaria en Bilbao: captar compradores](https://techmentoria.com/articles/inmobiliaria-bilbao-como-captar-compradores-google/)
 
 ### Zaragoza — por sector
 - [Fontanero en Zaragoza: aparecer en Google](https://techmentoria.com/articles/fontanero-zaragoza-como-aparecer-google/)
+- [Electricista en Zaragoza: conseguir más clientes](https://techmentoria.com/articles/electricista-zaragoza-como-aparecer-google/)
+- [Taller mecánico en Zaragoza: llenar la agenda](https://techmentoria.com/articles/taller-mecanico-zaragoza-como-aparecer-google/)
+- [Dentista en Zaragoza: captar pacientes](https://techmentoria.com/articles/dentista-zaragoza-como-captar-pacientes-google/)
+- [Cerrajero en Zaragoza: captar urgencias](https://techmentoria.com/articles/cerrajero-zaragoza-como-aparecer-google/)
+- [Abogado en Zaragoza: conseguir clientes](https://techmentoria.com/articles/abogado-zaragoza-como-conseguir-clientes-google/)
+- [Peluquería en Zaragoza: llenar la agenda](https://techmentoria.com/articles/peluqueria-zaragoza-como-llenar-agenda-google/)
+- [Nutricionista en Zaragoza: captar pacientes](https://techmentoria.com/articles/nutricionista-zaragoza-como-captar-clientes-google/)
+- [Psicólogo en Zaragoza: captar pacientes](https://techmentoria.com/articles/psicologia-zaragoza-como-captar-pacientes-google/)
+- [Fisioterapeuta en Zaragoza: captar pacientes](https://techmentoria.com/articles/fisioterapeuta-zaragoza-como-captar-pacientes-google/)
+- [Restaurante en Zaragoza: llenar mesas](https://techmentoria.com/articles/restaurante-zaragoza-como-llenar-mesas-google/)
+- [Inmobiliaria en Zaragoza: captar compradores](https://techmentoria.com/articles/inmobiliaria-zaragoza-como-captar-compradores-google/)
+
+### Málaga — por sector
+- [Fontanero en Málaga: conseguir clientes en Google](https://techmentoria.com/articles/fontanero-malaga-como-aparecer-google/)
+- [Electricista en Málaga: conseguir más clientes](https://techmentoria.com/articles/electricista-malaga-como-aparecer-google/)
+- [Cerrajero en Málaga: captar urgencias](https://techmentoria.com/articles/cerrajero-malaga-como-aparecer-google/)
+- [Taller mecánico en Málaga: llenar la agenda](https://techmentoria.com/articles/taller-mecanico-malaga-como-aparecer-google/)
+- [Dentista en Málaga: captar pacientes](https://techmentoria.com/articles/dentista-malaga-como-captar-pacientes-google/)
+- [Abogado en Málaga: conseguir clientes internacionales](https://techmentoria.com/articles/abogado-malaga-como-conseguir-clientes-google/)
+- [Peluquería en Málaga: llenar la agenda](https://techmentoria.com/articles/peluqueria-malaga-como-llenar-agenda-google/)
+- [Restaurante en Málaga: llenar mesas y captar turistas](https://techmentoria.com/articles/restaurante-malaga-como-llenar-mesas-google/)
 
 ---
 
