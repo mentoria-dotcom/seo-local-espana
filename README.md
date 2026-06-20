@@ -357,6 +357,91 @@ Guías de posicionamiento hiper-local: cada artículo combina ciudad concreta + 
 - [Clínica veterinaria en Bilbao: fisioterapia canina y Getxo](https://techmentoria.com/blog/clinica-veterinaria-bilbao-como-captar-clientes)
 - [Restaurante en Bilbao: pintxos y menú ejecutivo](https://techmentoria.com/blog/restaurante-bilbao-como-llenar-mesas-google)
 
+### Tenerife — por sector
+- [Fontanero en Tenerife: hoteles y sur de la isla](https://techmentoria.com/blog/fontanero-tenerife-como-aparecer-google)
+- [Dentista en Tenerife: turismo dental alemán e inglés](https://techmentoria.com/blog/dentista-tenerife-como-captar-pacientes)
+- [Psicólogo en Tenerife: expatriados y síndrome insular](https://techmentoria.com/blog/psicologia-tenerife-como-captar-pacientes)
+- [Nutricionista en Tenerife: dieta canaria y deportistas](https://techmentoria.com/blog/nutricionista-tenerife-como-captar-clientes)
+- [Electricista en Tenerife: solar canario y hoteles](https://techmentoria.com/blog/electricista-tenerife-como-captar-clientes)
+- [Cerrajero en Tenerife: turistas y smart locks](https://techmentoria.com/blog/cerrajero-tenerife-como-captar-clientes)
+- [Peluquería en Tenerife: inglesas, alemanas y sol](https://techmentoria.com/blog/peluqueria-tenerife-como-atraer-clientas)
+- [Inmobiliaria en Tenerife: compradores alemanes e ingleses](https://techmentoria.com/blog/inmobiliaria-tenerife-como-captar-compradores)
+
+### Santiago de Compostela — por sector
+- [Fontanero en Santiago de Compostela: goteras y turismo del Camino](https://techmentoria.com/blog/fontanero-santiago-compostela-como-aparecer-google)
+
+### Vigo (más sectores)
+- [Electricista en Vigo: industrial y solar gallego](https://techmentoria.com/blog/electricista-vigo-como-captar-clientes)
+- [Taller mecánico en Vigo: Stellantis y flotas](https://techmentoria.com/blog/taller-mecanico-vigo-como-captar-clientes)
+- [Psicólogo en Vigo: depresión estacional y SAD gallego](https://techmentoria.com/blog/psicologia-vigo-como-captar-pacientes)
+- [Nutricionista en Vigo: dieta atlántica y triatlón](https://techmentoria.com/blog/nutricionista-vigo-como-captar-clientes)
+- [Peluquería en Vigo: Coia, lluvia y novias gallegas](https://techmentoria.com/blog/peluqueria-vigo-como-atraer-clientas)
+- [Restaurante en Vigo: mariscos de las Rías Baixas](https://techmentoria.com/blog/restaurante-vigo-como-llenar-mesas-google)
+- [Personal trainer en Vigo: outdoor y deportes de mar](https://techmentoria.com/blog/personal-trainer-vigo-como-captar-clientes)
+- [Academia de idiomas en Vigo: portugués y frontera](https://techmentoria.com/blog/academia-idiomas-vigo-como-captar-alumnos)
+- [Abogado en Vigo: marítimo, laboral y extranjería](https://techmentoria.com/blog/abogado-vigo-como-captar-clientes)
+
+### Córdoba (más sectores)
+- [Electricista en Córdoba: AC, solar y ciudad más calurosa](https://techmentoria.com/blog/electricista-cordoba-como-captar-clientes)
+- [Psicólogo en Córdoba: ansiedad, pareja e infantil](https://techmentoria.com/blog/psicologia-cordoba-como-captar-pacientes)
+- [Nutricionista en Córdoba: salmorejo y dieta mediterránea](https://techmentoria.com/blog/nutricionista-cordoba-como-captar-clientes)
+- [Fisioterapeuta en Córdoba: padel, osteopatía y barrios](https://techmentoria.com/blog/fisioterapeuta-cordoba-como-captar-pacientes)
+- [Personal trainer en Córdoba: madrugones anti-calor](https://techmentoria.com/blog/personal-trainer-cordoba-como-captar-clientes)
+- [Inmobiliaria en Córdoba: casas con patio y casco histórico](https://techmentoria.com/blog/inmobiliaria-cordoba-como-captar-compradores)
+- [Peluquería en Córdoba: novias en patio cordobés](https://techmentoria.com/blog/peluqueria-cordoba-como-atraer-clientas)
+- [Academia de idiomas en Córdoba: árabe e inglés turismo](https://techmentoria.com/blog/academia-idiomas-cordoba-como-captar-alumnos)
+- [Abogado en Córdoba: patrimonio histórico y herencias rurales](https://techmentoria.com/blog/abogado-cordoba-como-captar-clientes)
+
+### Granada (más sectores)
+- [Taller mecánico en Granada: Sierra Nevada y neumáticos de invierno](https://techmentoria.com/blog/taller-mecanico-granada-como-captar-clientes)
+- [Psicólogo en Granada: universitarios y expatriados](https://techmentoria.com/blog/psicologia-granada-como-captar-pacientes)
+- [Nutricionista en Granada: universitarios y Las Alpujarras](https://techmentoria.com/blog/nutricionista-granada-como-captar-clientes)
+- [Restaurante en Granada: tapas gratis y vistas Alhambra](https://techmentoria.com/blog/restaurante-granada-como-llenar-mesas-google)
+- [Cerrajero en Granada: Albaicín y puertas históricas](https://techmentoria.com/blog/cerrajero-granada-como-captar-clientes)
+- [Dentista en Granada: turismo dental y universitarios](https://techmentoria.com/blog/dentista-granada-como-captar-pacientes)
+- [Peluquería en Granada: novias con Alhambra de fondo](https://techmentoria.com/blog/peluqueria-granada-como-atraer-clientas)
+- [Abogado en Granada: universitarios y patrimonio histórico](https://techmentoria.com/blog/abogado-granada-como-captar-clientes)
+- [Inmobiliaria en Granada: Albaicín y compradores internacionales](https://techmentoria.com/blog/inmobiliaria-granada-como-captar-compradores)
+- [Academia de idiomas en Granada: árabe y turismo lingüístico](https://techmentoria.com/blog/academia-idiomas-granada-como-captar-alumnos)
+
+### Alicante / Costa Blanca — por sector
+- [Psicólogo en Alicante: expatriados y síndrome del expat](https://techmentoria.com/blog/psicologia-alicante-como-captar-pacientes)
+- [Taller mecánico en Alicante: ITV y coches extranjeros](https://techmentoria.com/blog/taller-mecanico-alicante-como-captar-clientes)
+- [Nutricionista en Alicante: dieta mediterránea y expats](https://techmentoria.com/blog/nutricionista-alicante-como-captar-clientes)
+- [Peluquería en Alicante: clientas inglesas y bodas internacionales](https://techmentoria.com/blog/peluqueria-alicante-como-atraer-clientas)
+- [Abogado en Alicante: property lawyer y extranjería](https://techmentoria.com/blog/abogado-alicante-como-captar-clientes)
+- [Fisioterapeuta en Alicante: golf, running y expats](https://techmentoria.com/blog/fisioterapeuta-alicante-como-captar-pacientes)
+- [Inmobiliaria en Alicante: compradores ingleses y alemanes](https://techmentoria.com/blog/inmobiliaria-alicante-como-captar-compradores)
+- [Personal trainer en Alicante: expats, playa y golf fitness](https://techmentoria.com/blog/personal-trainer-alicante-como-captar-clientes)
+- [Academia de idiomas en Alicante: español para expats](https://techmentoria.com/blog/academia-idiomas-alicante-como-captar-alumnos)
+
+### Palma de Mallorca — por sector
+- [Cerrajero en Palma: turistas y tres idiomas](https://techmentoria.com/blog/cerrajero-palma-mallorca-como-captar-clientes)
+- [Taller mecánico en Palma: coches alemanes e ITV](https://techmentoria.com/blog/taller-mecanico-palma-mallorca-como-captar-clientes)
+- [Restaurante en Palma: alemanes, ingleses y cocina mallorquina](https://techmentoria.com/blog/restaurante-palma-mallorca-como-llenar-mesas-google)
+- [Electricista en Palma: solar canario y villas de lujo](https://techmentoria.com/blog/electricista-palma-mallorca-como-captar-clientes)
+
+### Zaragoza (más sectores)
+- [Academia de idiomas en Zaragoza: francés y B2](https://techmentoria.com/blog/academia-idiomas-zaragoza-como-captar-alumnos)
+- [Fisioterapeuta en Zaragoza: PLAZA y suelo pélvico](https://techmentoria.com/blog/fisioterapeuta-zaragoza-como-captar-pacientes)
+- [Nutricionista en Zaragoza: deportes y gastronomía aragonesa](https://techmentoria.com/blog/nutricionista-zaragoza-como-captar-clientes)
+- [Personal trainer en Zaragoza: maratón y Ebro](https://techmentoria.com/blog/personal-trainer-zaragoza-como-captar-clientes)
+- [Peluquería en Zaragoza: Delicias y novias](https://techmentoria.com/blog/peluqueria-zaragoza-como-atraer-clientas)
+- [Abogado en Zaragoza: laboral industrial y divorcios](https://techmentoria.com/blog/abogado-zaragoza-como-captar-clientes)
+- [Fontanero en Zaragoza: calderas y cierzo](https://techmentoria.com/blog/fontanero-zaragoza-como-aparecer-google)
+
+### Bilbao (más sectores — continuación)
+- [Inmobiliaria en Bilbao: Getxo y traslados desde Madrid](https://techmentoria.com/blog/inmobiliaria-bilbao-como-captar-compradores)
+- [Abogado en Bilbao: derecho foral vasco y laboral industrial](https://techmentoria.com/blog/abogado-bilbao-como-captar-clientes)
+- [Academia de idiomas en Bilbao: inglés de negocios y euskera](https://techmentoria.com/blog/academia-idiomas-bilbao-como-captar-alumnos)
+
+### Málaga / Costa del Sol (más sectores)
+- [Nutricionista en Málaga: expatriados y wellness internacional](https://techmentoria.com/blog/nutricionista-malaga-como-captar-clientes)
+- [Fisioterapeuta en Málaga: golf, padel y deportes de playa](https://techmentoria.com/blog/fisioterapeuta-malaga-como-captar-pacientes)
+- [Abogado en Málaga: property lawyer Marbella y herencias](https://techmentoria.com/blog/abogado-malaga-como-captar-clientes)
+- [Academia de idiomas en Málaga: español para expats y turismo](https://techmentoria.com/blog/academia-idiomas-malaga-como-captar-alumnos)
+- [Personal trainer en Málaga: playa, Marbella e inglés](https://techmentoria.com/blog/personal-trainer-malaga-como-captar-clientes)
+
 ---
 
 ## 📋 Schema.org para negocios locales
