@@ -287,6 +287,76 @@ Guías de posicionamiento hiper-local: cada artículo combina ciudad concreta + 
 - [Peluquería en Málaga: llenar la agenda](https://techmentoria.com/articles/peluqueria-malaga-como-llenar-agenda-google/)
 - [Restaurante en Málaga: llenar mesas y captar turistas](https://techmentoria.com/articles/restaurante-malaga-como-llenar-mesas-google/)
 
+### Vigo — por sector
+- [Fontanero en Vigo: conseguir clientes en Google](https://techmentoria.com/blog/fontanero-vigo-como-aparecer-google)
+- [Cerrajero en Vigo: captar urgencias](https://techmentoria.com/blog/cerrajero-vigo-como-captar-clientes)
+- [Dentista en Vigo: captar pacientes](https://techmentoria.com/blog/dentista-vigo-como-captar-pacientes)
+
+### Palma de Mallorca — por sector
+- [Fontanero en Palma: piscinas y turismo](https://techmentoria.com/blog/fontanero-palma-mallorca-como-captar-clientes)
+- [Dentista en Palma: pacientes alemanes e ingleses](https://techmentoria.com/blog/dentista-palma-mallorca-como-captar-pacientes)
+- [Peluquería en Palma: clientas internacionales y bodas](https://techmentoria.com/blog/peluqueria-palma-mallorca-como-atraer-clientas)
+
+### Alicante — por sector
+- [Fontanero en Alicante: mercado inglés en la Costa Blanca](https://techmentoria.com/blog/fontanero-alicante-como-captar-clientes)
+- [Electricista en Alicante: solares y clientes ingleses](https://techmentoria.com/blog/electricista-alicante-como-captar-clientes)
+- [Cerrajero en Alicante: locksmith para extranjeros](https://techmentoria.com/blog/cerrajero-alicante-como-captar-clientes)
+- [Dentista en Alicante: turismo dental inglés](https://techmentoria.com/blog/dentista-alicante-como-captar-pacientes)
+- [Restaurante en Alicante: arroz a banda y turistas](https://techmentoria.com/blog/restaurante-alicante-como-llenar-mesas-google)
+
+### Córdoba — por sector
+- [Fontanero en Córdoba: solares y urgencias](https://techmentoria.com/blog/fontanero-cordoba-como-aparecer-google)
+- [Cerrajero en Córdoba: casco histórico y apartamentos turísticos](https://techmentoria.com/blog/cerrajero-cordoba-como-captar-clientes)
+- [Dentista en Córdoba: implantes y ortodoncia](https://techmentoria.com/blog/dentista-cordoba-como-captar-pacientes)
+- [Peluquería en Córdoba: bodas en cortijos y calor extremo](https://techmentoria.com/blog/peluqueria-cordoba-como-atraer-clientas)
+
+### Granada — por sector
+- [Fontanero en Granada: calderas y Albaicín](https://techmentoria.com/blog/fontanero-granada-como-aparecer-google)
+- [Electricista en Granada: aire acondicionado y calefacción](https://techmentoria.com/blog/electricista-granada-como-captar-clientes)
+
+### Madrid (más sectores)
+- [Empresa de limpieza en Madrid: comunidades y oficinas](https://techmentoria.com/blog/empresa-limpieza-madrid-como-captar-clientes)
+- [Taller mecánico en Madrid: hiperlocalización por barrio](https://techmentoria.com/blog/taller-mecanico-madrid-hiperlocalizar)
+
+### Barcelona (más sectores)
+- [Academia de idiomas en Barcelona: catalán e inglés corporativo](https://techmentoria.com/blog/academia-idiomas-barcelona-como-captar-alumnos)
+- [Inmobiliaria en Barcelona: compradores internacionales](https://techmentoria.com/blog/inmobiliaria-barcelona-compradores-internacionales)
+- [Nutricionista en Barcelona: veganos y deportistas](https://techmentoria.com/blog/nutricionista-barcelona-como-captar-clientes)
+
+### Madrid (academias y formación)
+- [Academia de idiomas en Madrid: B2, C1 e inglés corporativo](https://techmentoria.com/blog/academia-idiomas-madrid-como-captar-alumnos)
+
+### Sevilla (más sectores)
+- [Electricista en Sevilla: aire acondicionado y solar](https://techmentoria.com/blog/electricista-sevilla-como-captar-clientes)
+- [Clínica veterinaria en Sevilla: urgencias y Triana](https://techmentoria.com/blog/clinica-veterinaria-sevilla-como-captar-clientes)
+- [Personal trainer en Sevilla: outdoor y operación bikini](https://techmentoria.com/blog/personal-trainer-sevilla-como-captar-clientes)
+- [Nutricionista en Sevilla: verano y dieta mediterránea](https://techmentoria.com/blog/nutricionista-sevilla-como-captar-clientes)
+- [Inmobiliaria en Sevilla: Triana y alquiler turístico](https://techmentoria.com/blog/inmobiliaria-sevilla-como-captar-compradores)
+
+### Valencia (más sectores)
+- [Taller mecánico en Valencia: motos e ITV](https://techmentoria.com/blog/taller-mecanico-valencia-como-captar-clientes)
+- [Clínica veterinaria en Valencia: nómadas y Ruzafa](https://techmentoria.com/blog/clinica-veterinaria-valencia-como-captar-clientes)
+- [Abogado en Valencia: inmobiliario y compradores internacionales](https://techmentoria.com/blog/abogado-valencia-como-captar-clientes)
+- [Fisioterapeuta en Valencia: osteopatía y suelo pélvico](https://techmentoria.com/blog/fisioterapeuta-valencia-como-captar-pacientes)
+- [Psicólogo en Valencia: terapia de pareja y Ruzafa](https://techmentoria.com/blog/psicologia-valencia-como-captar-pacientes)
+- [Peluquería en Valencia: Ruzafa y bodas](https://techmentoria.com/blog/peluqueria-valencia-como-atraer-clientas)
+- [Restaurante en Valencia: paella auténtica e internacionales](https://techmentoria.com/blog/restaurante-valencia-como-llenar-mesas-google)
+
+### Zaragoza (más sectores)
+- [Clínica veterinaria en Zaragoza: urgencias y Actur](https://techmentoria.com/blog/clinica-veterinaria-zaragoza-como-captar-clientes)
+- [Electricista en Zaragoza: aerotermia y cargadores EV](https://techmentoria.com/blog/electricista-zaragoza-como-captar-clientes)
+- [Psicólogo en Zaragoza: ansiedad y terapia de pareja](https://techmentoria.com/blog/psicologia-zaragoza-como-captar-pacientes)
+- [Restaurante en Zaragoza: tapas gratis y menú ejecutivo](https://techmentoria.com/blog/restaurante-zaragoza-como-llenar-mesas-google)
+
+### Bilbao (más sectores)
+- [Taller mecánico en Bilbao: coche eléctrico e ITV](https://techmentoria.com/blog/taller-mecanico-bilbao-como-captar-clientes)
+- [Fisioterapeuta en Bilbao: deportes vascos y suelo pélvico](https://techmentoria.com/blog/fisioterapeuta-bilbao-como-captar-pacientes)
+- [Abogado en Bilbao: laboralista y extranjería](https://techmentoria.com/blog/abogado-bilbao-como-captar-clientes)
+- [Nutricionista en Bilbao: deportes vascos y cocina local](https://techmentoria.com/blog/nutricionista-bilbao-como-captar-clientes)
+- [Peluquería en Bilbao: Indautxu y Getxo](https://techmentoria.com/blog/peluqueria-bilbao-como-atraer-clientas)
+- [Clínica veterinaria en Bilbao: fisioterapia canina y Getxo](https://techmentoria.com/blog/clinica-veterinaria-bilbao-como-captar-clientes)
+- [Restaurante en Bilbao: pintxos y menú ejecutivo](https://techmentoria.com/blog/restaurante-bilbao-como-llenar-mesas-google)
+
 ---
 
 ## 📋 Schema.org para negocios locales
