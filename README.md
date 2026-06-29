@@ -13,6 +13,7 @@ Una lista curada de herramientas, guías y recursos para mejorar el posicionamie
 | [AuditorIA — Diagnóstico SEO](https://landing-five-dusky-44.vercel.app) | Análisis automático de errores SEO técnicos para webs de negocios locales españoles (HTTPS, meta, Schema, viewport, teléfono clickable) | Gratis |
 | [Calculadora de clientes perdidos](https://landing-five-dusky-44.vercel.app/calculadora) | Estima cuántos clientes buscan tu servicio al mes y cuántos van a la competencia por falta de web | Gratis |
 | [Generador de Schema Markup](https://landing-five-dusky-44.vercel.app/schema-generator) | Genera el código JSON-LD correcto para tu negocio local en 2 minutos | Gratis |
+| [Comparar velocidad: mi web vs competidor](https://landing-five-dusky-44.vercel.app/comparar-velocidad) | Introduce dos URLs y compara en tiempo real cuál carga más rápido con datos reales de Google PageSpeed | Gratis |
 | [Google Search Console](https://search.google.com/search-console) | Indexación, errores de rastreo, palabras clave | Gratis |
 | [PageSpeed Insights](https://pagespeed.web.dev) | Velocidad y Core Web Vitals en móvil y escritorio | Gratis |
 | [Rich Results Test](https://search.google.com/test/rich-results) | Verificar Schema markup / datos estructurados | Gratis |
@@ -484,6 +485,21 @@ Tipos relevantes para negocios locales en España:
 |-------------|-------------|--------|
 | [Generador Schema Markup (AuditorIA)](https://landing-five-dusky-44.vercel.app/schema-generator) | Genera código JSON-LD para 22 tipos de negocio local español | Gratis |
 | [Schema.org LocalBusiness](https://schema.org/LocalBusiness) | Referencia oficial de tipos Schema para negocios | Gratis |
+
+---
+
+## 💶 Diseño web y presupuestos
+
+| Recurso | Descripción |
+|---------|-------------|
+| [¿Cuánto cuesta una web para un negocio local?](https://landing-five-dusky-44.vercel.app/cuanto-cuesta-una-web) | Comparativa real: DIY vs. freelance vs. agencia vs. especialista. Tablas de precio, ejemplos y calculadora de rentabilidad |
+| [Portafolio: 48 demos reales por sector](https://landing-five-dusky-44.vercel.app/portafolio) | Webs de ejemplo para fontaneros, cerrajeros, electricistas, pintores y más — con filtro por sector |
+| [Mi web no tiene HTTPS: qué pasa y cómo solucionarlo](https://landing-five-dusky-44.vercel.app/web-sin-https) | Impacto en Google, cómo activar Let's Encrypt y 3 pasos post-activación |
+| [Cómo optimizar Google Business Profile paso a paso](https://landing-five-dusky-44.vercel.app/google-business-profile-optimizar) | 6 pasos: verificación, categorías, fotos, reseñas y publicaciones |
+| [Schema markup para negocios locales: guía práctica](https://landing-five-dusky-44.vercel.app/schema-markup-negocio-local) | Qué es, por qué importa y cómo añadirlo (con código de ejemplo) |
+| [Mejor hosting web en España 2026](https://landing-five-dusky-44.vercel.app/hosting-web-espana) | Comparativa honesta: Hostinger, SiteGround, Raiola y OVHcloud para negocios locales |
+
+---
 
 ## 🤝 Contribuir
 
