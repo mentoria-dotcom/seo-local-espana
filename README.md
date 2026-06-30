@@ -501,6 +501,20 @@ Tipos relevantes para negocios locales en España:
 
 ---
 
+## 📖 Guías en Telegraph
+
+Artículos prácticos con consejos de SEO local para negocios en España:
+
+| Guía | Descripción |
+|------|-------------|
+| [Cómo conseguir más clientes siendo fontanero en España](https://telegra.ph/C%C3%B3mo-conseguir-m%C3%A1s-clientes-siendo-fontanero-en-Espa%C3%B1a-06-30) | Búsquedas locales, Google Business Profile y web optimizada para fontaneros |
+| [Por qué los cerrajeros sin web pierden el 80% de sus clientes](https://telegra.ph/Por-qu%C3%A9-los-cerrajeros-sin-web-pierden-el-80-de-sus-clientes-06-30) | Urgencia de compra, datos de búsquedas y qué debe incluir la web de una cerrajería |
+| [6 herramientas SEO gratuitas para negocios locales en España (2026)](https://telegra.ph/6-herramientas-SEO-gratuitas-para-negocios-locales-en-Espa%C3%B1a-2026-06-30) | Velocidad, Schema, Google Business Profile, diagnóstico y mini-auditoría |
+| [Web para autónomo: por qué necesitas una y cuánto cuesta en España](https://telegra.ph/Web-para-aut%C3%B3nomo-por-qu%C3%A9-necesitas-una-y-cu%C3%A1nto-cuesta-en-Espa%C3%B1a-06-30) | Para los 3,3M autónomos españoles que dependen de plataformas de terceros |
+| [Cómo comparar la velocidad de tu web con la de la competencia](https://telegra.ph/C%C3%B3mo-comparar-la-velocidad-de-tu-web-con-la-de-la-competencia-gratis-06-30) | Core Web Vitals, LCP, CLS y cómo usar el comparador gratuito |
+
+---
+
 ## 🤝 Contribuir
 
 ¿Conoces una herramienta o recurso útil que falta? Abre un Pull Request con:
