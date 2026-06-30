@@ -512,6 +512,8 @@ Artículos prácticos con consejos de SEO local para negocios en España:
 | [6 herramientas SEO gratuitas para negocios locales en España (2026)](https://telegra.ph/6-herramientas-SEO-gratuitas-para-negocios-locales-en-Espa%C3%B1a-2026-06-30) | Velocidad, Schema, Google Business Profile, diagnóstico y mini-auditoría |
 | [Web para autónomo: por qué necesitas una y cuánto cuesta en España](https://telegra.ph/Web-para-aut%C3%B3nomo-por-qu%C3%A9-necesitas-una-y-cu%C3%A1nto-cuesta-en-Espa%C3%B1a-06-30) | Para los 3,3M autónomos españoles que dependen de plataformas de terceros |
 | [Cómo comparar la velocidad de tu web con la de la competencia](https://telegra.ph/C%C3%B3mo-comparar-la-velocidad-de-tu-web-con-la-de-la-competencia-gratis-06-30) | Core Web Vitals, LCP, CLS y cómo usar el comparador gratuito |
+| [Cómo conseguir más clientes para tu taller mecánico con Google](https://telegra.ph/C%C3%B3mo-conseguir-m%C3%A1s-clientes-para-tu-taller-mec%C3%A1nico-con-Google-06-30-2) | 18.000 búsquedas/mes en Madrid, Schema AutoRepair y Google Business |
+| [Web para abogado en España: qué necesitas y cuánto cuesta en 2026](https://telegra.ph/Web-para-abogado-en-Espa%C3%B1a-qu%C3%A9-necesitas-y-cu%C3%A1nto-cuesta-en-2026-06-30-2) | 40.500 búsquedas/mes "abogado Madrid", Schema LegalService y SEO local |
 
 ---
 
