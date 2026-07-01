@@ -514,6 +514,8 @@ Artículos prácticos con consejos de SEO local para negocios en España:
 | [Cómo comparar la velocidad de tu web con la de la competencia](https://telegra.ph/C%C3%B3mo-comparar-la-velocidad-de-tu-web-con-la-de-la-competencia-gratis-06-30) | Core Web Vitals, LCP, CLS y cómo usar el comparador gratuito |
 | [Cómo conseguir más clientes para tu taller mecánico con Google](https://telegra.ph/C%C3%B3mo-conseguir-m%C3%A1s-clientes-para-tu-taller-mec%C3%A1nico-con-Google-06-30-2) | 18.000 búsquedas/mes en Madrid, Schema AutoRepair y Google Business |
 | [Web para abogado en España: qué necesitas y cuánto cuesta en 2026](https://telegra.ph/Web-para-abogado-en-Espa%C3%B1a-qu%C3%A9-necesitas-y-cu%C3%A1nto-cuesta-en-2026-06-30-2) | 40.500 búsquedas/mes "abogado Madrid", Schema LegalService y SEO local |
+| [Fontanero en Zaragoza: cómo conseguir más clientes sin publicidad](https://telegra.ph/Fontanero-en-Zaragoza-c%C3%B3mo-conseguir-m%C3%A1s-clientes-sin-publicidad-06-30-2) | 1.800 búsquedas/mes, por qué Wix no rankea y cómo posicionarse |
+| [Web para fontanero en Madrid y Barcelona: guía de precios y SEO 2026](https://telegra.ph/Web-para-fontanero-en-Madrid-y-Barcelona-gu%C3%ADa-de-precios-y-SEO-2026-07-01) | 8.500+6.800 búsquedas/mes, diferencias entre ciudades y qué incluye cada web |
 
 ---
 
