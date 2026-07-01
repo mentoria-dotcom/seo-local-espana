@@ -518,6 +518,8 @@ Artículos prácticos con consejos de SEO local para negocios en España:
 | [Web para fontanero en Madrid y Barcelona: guía de precios y SEO 2026](https://telegra.ph/Web-para-fontanero-en-Madrid-y-Barcelona-gu%C3%ADa-de-precios-y-SEO-2026-07-01) | 8.500+6.800 búsquedas/mes, diferencias entre ciudades y qué incluye cada web |
 | [Web para negocios locales en Sevilla 2026](https://telegra.ph/Web-para-negocios-locales-en-Sevilla-2026-07-01) | Fontanero 3.200, cerrajero 1.900, electricista 2.800 búsquedas/mes en Sevilla |
 | [Web para dentista en Madrid 2026 — 40.500 búsquedas al mes](https://telegra.ph/Web-para-dentista-en-Madrid-2026--40500-busquedas-al-mes-07-01) | Keyword más voluminoso de negocio local en España y cómo aprovecharlo |
+| [Web para peluquería en Barcelona — 8.200 búsquedas al mes](https://telegra.ph/Web-para-peluquería-en-Barcelona--8200-búsquedas-al-mes-07-01-2) | Por qué Instagram no basta y qué debe incluir la web de una peluquería en Barcelona |
+| [Web para dentista en Barcelona — 27.000 búsquedas al mes](https://telegra.ph/Web-para-dentista-en-Barcelona--27000-búsquedas-al-mes-07-01) | Schema Dentist, SEO por barrio y cómo calcular el ROI de una web para clínica dental |
 
 ---
 
@@ -530,8 +532,8 @@ Páginas específicas para búsquedas locales de alta intención — "[sector] [
 | Fontanero | [Madrid](https://landing-five-dusky-44.vercel.app/web-fontanero-madrid) | [Barcelona](https://landing-five-dusky-44.vercel.app/web-fontanero-barcelona) | [Valencia](https://landing-five-dusky-44.vercel.app/web-fontanero-valencia) | [Sevilla](https://landing-five-dusky-44.vercel.app/web-fontanero-sevilla) | [Zaragoza](https://landing-five-dusky-44.vercel.app/web-fontanero-zaragoza) | [Bilbao](https://landing-five-dusky-44.vercel.app/web-fontanero-bilbao) | [Málaga](https://landing-five-dusky-44.vercel.app/web-fontanero-malaga) |
 | Cerrajero | [Madrid](https://landing-five-dusky-44.vercel.app/web-cerrajero-madrid) | [Barcelona](https://landing-five-dusky-44.vercel.app/web-cerrajero-barcelona) | [Valencia](https://landing-five-dusky-44.vercel.app/web-cerrajero-valencia) | [Sevilla](https://landing-five-dusky-44.vercel.app/web-cerrajero-sevilla) | [Zaragoza](https://landing-five-dusky-44.vercel.app/web-cerrajero-zaragoza) | [Bilbao](https://landing-five-dusky-44.vercel.app/web-cerrajero-bilbao) | [Málaga](https://landing-five-dusky-44.vercel.app/web-cerrajero-malaga) |
 | Electricista | [Madrid](https://landing-five-dusky-44.vercel.app/web-electricista-madrid) | [Barcelona](https://landing-five-dusky-44.vercel.app/web-electricista-barcelona) | [Valencia](https://landing-five-dusky-44.vercel.app/web-electricista-valencia) | [Sevilla](https://landing-five-dusky-44.vercel.app/web-electricista-sevilla) | — | — | — |
-| Dentista | [Madrid](https://landing-five-dusky-44.vercel.app/web-dentista-madrid) | — | — | — | — | — | — |
-| Peluquería | [Madrid](https://landing-five-dusky-44.vercel.app/web-peluqueria-madrid) | [Barcelona](https://landing-five-dusky-44.vercel.app/web-peluqueria-barcelona) | — | — | — | — | — |
+| Dentista | [Madrid](https://landing-five-dusky-44.vercel.app/web-dentista-madrid) | [Barcelona](https://landing-five-dusky-44.vercel.app/web-dentista-barcelona) | — | — | — | — | — |
+| Peluquería | [Madrid](https://landing-five-dusky-44.vercel.app/web-peluqueria-madrid) | [Barcelona](https://landing-five-dusky-44.vercel.app/web-peluqueria-barcelona) | — | [Sevilla](https://landing-five-dusky-44.vercel.app/web-peluqueria-sevilla) | — | — | — |
 
 ---
 
