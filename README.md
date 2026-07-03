@@ -527,6 +527,9 @@ Artículos prácticos con consejos de SEO local para negocios en España:
 | [Web para fisioterapeuta en España — 25.000 búsquedas al mes](https://telegra.ph/Web-para-fisioterapeuta-en-España--25000-búsquedas-al-mes-07-01) | Schema MedicalBusiness, número de colegiado, cita WhatsApp y SEO por ciudad |
 | [Web para taller mecánico en Madrid — 12.000 búsquedas al mes](https://telegra.ph/Web-para-taller-mecánico-en-Madrid--12000-búsquedas-al-mes-07-01) | Schema AutoRepair, ITV, presupuesto WhatsApp y SEO por barrio |
 | [Web para veterinario en Madrid — 8.000 búsquedas al mes](https://telegra.ph/Web-para-veterinario-en-Madrid--8000-búsquedas-al-mes-07-01) | Schema VeterinaryCare, servicios, cita online y captación de propietarios de mascotas |
+| [Cuánto cuesta una auditoría SEO en España en 2026](https://telegra.ph/Cuánto-cuesta-una-auditoría-SEO-en-España-en-2026-precios-reales-07-03) | Precios reales de mercado (50€-600€) y qué debe incluir una auditoría seria |
+| [Mi negocio no aparece en Google: 7 razones y cómo solucionarlo](https://telegra.ph/Mi-negocio-no-aparece-en-Google-7-razones-y-cómo-solucionarlo-07-03) | Las causas más comunes: GBP incompleto, sin HTTPS, NAP inconsistente, sin Schema |
+| [Cuánto cuesta una página web para autónomos y pymes en España](https://telegra.ph/Cuánto-cuesta-una-página-web-para-autónomos-y-pymes-en-España-precios-2026-07-03) | Rangos de precio 2026: de plantillas gratis a agencias, y qué debe incluir el presupuesto |
 
 ---
 
